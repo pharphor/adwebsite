@@ -1,2 +1,8 @@
 # adwebsite
 advertisement website
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xFfb11026cd2eb88aFfc53AaE53998E480203f2e1'
+quorum: 1
